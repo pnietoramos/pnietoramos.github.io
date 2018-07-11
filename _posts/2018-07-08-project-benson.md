@@ -11,7 +11,3 @@ Our data analysis is based in a two steps approach. In a first step data for the
 
 In a second step some of the features found to define a person [more likely to donate](https://repository.upenn.edu/wharton_research_scholars/126/) were examined. Based on this a woman with high income working in the tech industry was considered to be a the most likely donor. Data for all three factors were colleted for each zip code in NYC. The proportion of women was extracted from [The Department of Youth and Community Development](https://www1.nyc.gov/site/dycd/index.page). The income was estimated by considering median home prices using [Zillow](https://www.zillow.com/) while the proportion of tech workers were identified using [The 2016 NYC Tech Ecosystem Report](http://abny.org/content.php?page=NYC_Tech_Ecosystem).
 Combining these results with the foot traffic a score was calculated using a weighted average and a ranking with the highest density of likely donors for the shifts crystallized.
-
-### Conclusion
- We are able to identify the locations and times of the week for which the number of potential contributors to the gala is maximized.
- Our
