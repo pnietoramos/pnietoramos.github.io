@@ -10,10 +10,16 @@ Our study is restricted to cities larger than 100000 within USA with a number of
 
 ### Methodology and model
 
-| Method  | Degree  | MSE  |
-|---------|---------|------|
-| Lasso   |   |   |
-| Ridge   |   |   |
-| Elastic net  |   |   |
+| Method        | Degree  | MSE  |
+|---------      |---------|------|
+| Lasso         |  1      |   |
+| Lasso         |  2      |   |
+| Lasso         |  3      |   |
+| Ridge         |  1      |   |
+| Ridge         |  2      |   |
+| Ridge         |  3      |   |
+| Elastic net   | 1       |   |
+| Elastic net   | 2       |   |
+| Elastic net   | 3       |   |
 
 ### Results
